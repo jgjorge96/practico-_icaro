@@ -1,0 +1,29 @@
+form {
+    background-color: rgb(124, 213, 240);
+    border-radius: 10px;
+    color:  #2b2a2a;
+    font-size: 15px;
+    padding: 23px;
+    margin: 0 auto;
+    width: 300px;
+
+}
+
+input, textarea {
+    border: 30;
+    outline: none;
+    width: 280px;
+}
+
+.campo {
+    border: solid 1px rgb(95, 93, 93);
+    padding: 10px;
+}
+
+.campo:focus {
+    border-color: rgb(94, 177, 112);
+}
+
+.center-content {
+    text-align: center;
+}
